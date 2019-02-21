@@ -1,0 +1,27 @@
+baseURL = "/"
+languageCode = "en-ie"
+title = "Kieran Doyle"
+theme = "hugo-serif-theme"
+
+[params]
+    google_analytics_id=""
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "About Me"
+    url = "/aboutme/"
+    weight = 2
+
+[[menu.main]]
+	name = "Testimonials"
+	url = "/testimonials/"
+	weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
