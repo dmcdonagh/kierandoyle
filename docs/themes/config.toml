@@ -1,4 +1,4 @@
-baseURL = "dmcdonagh.github.io/kierandoyle/"
+baseURL = "https://dmcdonagh.github.io/kierandoyle/"
 languageCode = "en-ie"
 title = "Kieran Doyle"
 theme = "hugo-serif-theme"
