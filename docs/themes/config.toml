@@ -1,7 +1,8 @@
-baseURL = "/"
+baseURL = "dmcdonagh.github.io/kierandoyle/"
 languageCode = "en-ie"
 title = "Kieran Doyle"
 theme = "hugo-serif-theme"
+publishDir = "docs"
 
 [params]
     google_analytics_id=""
