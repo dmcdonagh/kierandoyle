@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Kieran Doyle</title>
+    <link>dmcdonagh.github.io/kierandoyle/services/</link>
+    <description>Recent content in Services on Kieran Doyle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="dmcdonagh.github.io/kierandoyle/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Central Heating Services</title>
+      <link>dmcdonagh.github.io/kierandoyle/services/heating/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>dmcdonagh.github.io/kierandoyle/services/heating/</guid>
+      <description>Kieran Doyle Heating and Plumbing Services provides expert heating services to all commercial, industrial, and domestic customers throughout Ireland.
+We specialise in all areas of central heating systems. Our heating services include:
+ Central Heating Installation Heating Breakdown Recovery Central Heating Repair Central Heating Servicing Power Flushing  Our skilled engineers are qualified and registered to service or repair all heating system makes and models, whether they be gas or oil.</description>
+    </item>
+    
+    <item>
+      <title>Plumbing</title>
+      <link>dmcdonagh.github.io/kierandoyle/services/plumbing/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>dmcdonagh.github.io/kierandoyle/services/plumbing/</guid>
+      <description>Kieran Doyle provides a comprehensive range of plumbing services to both the domestic and commercial sectors. Including repairs to your existing plumbing system, plumbing replacement service, a full breakdown service and a complete installation service if you need a new plumbing system installed or your current system upgraded.
+Example list of Plumbing services Below is a small list of the plumbing services he provideis ( No matter how big or small the job ).</description>
+    </item>
+    
+    <item>
+      <title>Power Flush</title>
+      <link>dmcdonagh.github.io/kierandoyle/services/powerflush/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>dmcdonagh.github.io/kierandoyle/services/powerflush/</guid>
+      <description>Dirt, sludge and limescale buildup over time can reduce the efficiency of your central heating system and effectively raise your heating bills. Dublin Plumbing Services suggests that if this occurs, rather than replacing your entire heating system with an expensive new model, you hire our skilled engineers for a power flush at an affordable price. Power flushing your central heating system will restore its circulation and improve its energy efficiency, which will in turn lower your heating bills.</description>
+    </item>
+    
+    <item>
+      <title>Gas Boiler Installation and Repairs</title>
+      <link>dmcdonagh.github.io/kierandoyle/services/gas/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>dmcdonagh.github.io/kierandoyle/services/gas/</guid>
+      <description>Gas Boiler Installation and Repairs</description>
+    </item>
+    
+  </channel>
+</rss>
