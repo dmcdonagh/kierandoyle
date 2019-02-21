@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Kieran Doyle"
 theme = "hugo-serif-theme"
+publishDir = "docs"
 
 [params]
     google_analytics_id=""
